@@ -1,0 +1,16 @@
+site_name: Obsidian Wiki
+theme:
+  name: material
+plugins:
+  - search
+  - minify
+  - awesome-pages
+
+nav:
+  - Home: index.md
+  - Study Idea Project:
+      - "Study Idea Project": Study-Idea-Project/2024-12-17-Study-Idea-Project.md
+  - Templates:
+      - "Daily Plans Template v3": Templates/Daily-Plans_Template_v3.md
+  - Prompts:
+      - "2024-12-15 Prompts": Prompts/2024-12-15-Prompts.md
